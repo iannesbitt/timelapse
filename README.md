@@ -44,3 +44,5 @@ cd ~/Pictures/folder/here
 ```
 timelapse
 ```
+
+The script will make two subfolders (`tmp/` and `0video/` by default). Resized images will be in `tmp/`, numbered sequentially. Video location will be `0video/vid.mp4` by default.
